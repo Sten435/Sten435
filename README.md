@@ -29,11 +29,9 @@ let StanPersWiels = {
 
 <h2>Top used languages</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sten435&show_icons=true)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sten435&layout=compact)]
-
-[![Time Coding](https://github-readme-stats.vercel.app/api/wakatime?username=sten435)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sten435&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sten435&layout=compact)
+![Time Coding](https://github-readme-stats.vercel.app/api/wakatime?username=sten435)
 
 ## Get in touch with me 📞
 
