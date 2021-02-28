@@ -30,7 +30,7 @@ let StanPersWiels = {
 <h2>Top used languages</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sten435&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sten435)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sten435&layout=compact)
 
 ## Get in touch with me 📞
 
