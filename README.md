@@ -27,16 +27,18 @@ let StanPersWiels = {
 }
 ```
 
+## Programming Stats ⌚
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@sten435&compact=True"/>
+</a>
+
+
 <h2>More info</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sten435&show_icons=true)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sten435&layout=compact)
 
-## Programming Stats ⌚
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@sten435&compact=True"/>
-</a>
 
 ## Get in touch with me 📞
 
