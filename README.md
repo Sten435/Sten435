@@ -10,7 +10,7 @@
 <h3>Me...</h3>
 
 ```javascript
-let StanPersWiels = {
+let Stan = {
   Born: 2002,
   Main-programming-languages: ["Javascript", "PHP", "HTML", "CSS"],
     Languages: {
