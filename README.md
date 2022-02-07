@@ -12,7 +12,7 @@
 ```javascript
 let Stan = {
   Born: 2002,
-  Main-programming-languages: ["Javascript", "PHP", "HTML", "CSS"],
+  Main-programming-language: "Javascript",
     Languages: {
       JavaScript: ["Node.js", "Express.js", "socket.io"],
       PHP: ["No frameworks"],
