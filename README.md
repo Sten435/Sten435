@@ -12,7 +12,7 @@
 ```javascript
 let Stan = {
   Born: 2002,
-  Main-programming-language: "Javascript",
+  Main-programming-language: ["Javascript", "C#"],
     Languages: {
       JavaScript: ["Node.js", "Express.js", "socket.io"],
       PHP: ["No frameworks"],
@@ -23,7 +23,7 @@ let Stan = {
       Operating-systems: ["macOS", "Windows"],
     }
   },
-  Tools: ["VS Code", "Visual Studio", "Git", "Github", "Insomnia", "Bootstrap Studio"],
+  Tools: ["VS Code", "Visual Studio 2019-2022", "Github", "Bootstrap Studio"],
 }
 ```
 
