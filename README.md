@@ -14,6 +14,7 @@ let Stan = {
   Born: 2002,
   Main-programming-language: ["Javascript", "C#"],
     Languages: {
+      C#: [".Net"],
       JavaScript: ["Node.js", "Express.js", "socket.io"],
       PHP: ["No frameworks"],
       CSS: ["SCSS", "SASS", "Bootstrap"],
