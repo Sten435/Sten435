@@ -1,5 +1,5 @@
 <h2>👋</h2>
-<p></span>Im Stan Persoons, 20 years old and alive in Belgium; I love programming in javascript and c#; I learned programming from a friend (make sure to check him out -> <a href="https://github.com/Xevro" target="_blank">Xevro</a> <-); I kept on rolling into it, trying different languages and making a dozen of small projects and also a couple of websites.
+<p></span>Im Stan P, 20 years old and alive in Belgium; I love programming in javascript and c#; I learned programming from a friend (make sure to check him out -> <a href="https://github.com/Xevro" target="_blank">Xevro</a> <-); I kept on rolling into it, trying different languages and making a dozen of small projects and also a couple of websites.
 
 <h2>Make sure to check my profile bellow !</h2>
 
